@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1447041625 source:c:\users\andres\documents\codeblocks\project 4 - oop\main.cpp
+	<iostream>
+	<iomanip>
+	"employee.h"
+	"salaryemployee.h"
+	"chef.h"
+	"hourlyemployee.h"
+	"database.h"
+
+1447030125 c:\users\andres\documents\codeblocks\project 4 - oop\employee.h
+	<string>
+	<iostream>
+
+1447030550 c:\users\andres\documents\codeblocks\project 4 - oop\salaryemployee.h
+
+1447030822 c:\users\andres\documents\codeblocks\project 4 - oop\chef.h
+
+1447031312 c:\users\andres\documents\codeblocks\project 4 - oop\hourlyemployee.h
+
+1446086402 source:c:\users\andres\documents\codeblocks\project 4 - oop\hourlyemployee.h
+	"employee.h"
+
+1446083288 source:c:\users\andres\documents\codeblocks\project 4 - oop\employee.h
+	<string>
+	<iostream>
+
+1446083675 source:c:\users\andres\documents\codeblocks\project 4 - oop\salaryemployee.h
+	"employee.h"
+
+1447035379 c:\users\andres\documents\codeblocks\project 4 - oop\database.h
+	"monthrecords.h"
+
+1447042233 c:\users\andres\documents\codeblocks\project 4 - oop\monthrecords.h
+

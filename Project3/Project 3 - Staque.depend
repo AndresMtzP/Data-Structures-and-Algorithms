@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1445806923 source:c:\users\andres\documents\codeblocks\project 3 - staque\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<string>
+	<cstdlib>
+	"staque.h"
+
+1444602278 c:\users\andres\documents\codeblocks\project 3 - staque\node.h
+	<iostream>
+
+1445806367 c:\users\andres\documents\codeblocks\project 3 - staque\staque.h
+	<iostream>
+
+1444603823 source:c:\users\andres\documents\codeblocks\project 3 - staque\node.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	"node.h"
+
+1444531896 source:c:\users\andres\documents\codeblocks\project 3 - staque\node.h
+	<iostream>
+
+1445821672 source:c:\users\andres\documents\codeblocks\project 3 - staque\staque.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	"staque.h"
+
+1444526292 source:c:\users\andres\documents\codeblocks\project 3 - staque\staque.h
+	<iostream>
+	"node.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1443767589 source:c:\users\andres\documents\codeblocks\project 2\date.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	"date.h"
+
+1443767949 c:\users\andres\documents\codeblocks\project 2\date.h
+	<iostream>
+
+1443993653 source:c:\users\andres\documents\codeblocks\project 2\main.cpp
+	<iostream>
+	<iomanip>
+	"date.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1448248869 source:c:\users\andres\documents\codeblocks\project5 bst\bst.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	"bst.h"
+
+1448414898 c:\users\andres\documents\codeblocks\project5 bst\bst.h
+	<iostream>
+	"treenode.h"
+
+1448416466 c:\users\andres\documents\codeblocks\project5 bst\treenode.h
+
+1448407831 source:c:\users\andres\documents\codeblocks\project5 bst\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"bst.h"
+
